@@ -61,7 +61,8 @@ function init(){
   textoptions['fontSize'] = 50;  
   textoptions['align'] = 'center';  
   heading = AddText(textoptions);  
-  render_element(heading,stage,layer);  
+  render_element(heading,stage,layer);
+  settextediton(heading);
   //blank addition over  
 }
 init();
