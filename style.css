@@ -1,0 +1,27 @@
+body {  
+  margin: 0px;  
+  padding: 0px;  
+ }  
+#container {  
+  width: 1000px;  
+  height: 600px;  
+  margin-left: auto;  
+  margin-right: auto;  
+  border: solid 1px;  
+}
+#textedit {  
+  position: fixed;  
+  right: 0;  
+  top: 0;  
+  width: 200px;  
+  padding: 20px;  
+  display: none;  
+  background-color: #e0e0e0;  
+}  
+#exittextedit{  
+  width: 100%;  
+  text-align: center;  
+  margin-top: 5px;  
+  margin-bottom: 5px;  
+  background-color: #6D6666;  
+}
